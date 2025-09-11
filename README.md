@@ -3,7 +3,7 @@
 [HuggingFace](https://huggingface.co/vynie)  
 
 Contributor & Development:
-- My Research & Projects: [Serayuki-1B](https://huggingface.co/SeraphyneLab/Serayuki-1B), [Serayuki-1B-v1.1-pre2](https://huggingface.co/Vynie/Serayuki-1B-v1.1-pre2-step-3k-1B), [TinyLLM Architecture](https://sololearn.com/compiler-playground/cr1r6XE9xOuN/?ref=app), [Simple Chatbot LSTM numpy](https://sololearn.com/compiler-playground/c20RjWeLNwu4/?ref=app), [Raven Cyber Simulation](https://t.me/SeraphyneProjects/3), [Android Library Security](https://github.com/vynie7/ZeltaHackoMimi)
+- My Research & Projects: [Serayuki-1B](https://huggingface.co/SeraphyneLab/Serayuki-1B), [Serayuki-1B-v1.1-pre2](https://huggingface.co/Vynie/Serayuki-1B-v1.1-pre2-step-3k-1B), [TinyLM Architecture](https://sololearn.com/compiler-playground/cr1r6XE9xOuN/?ref=app), [Simple Chatbot LSTM numpy](https://sololearn.com/compiler-playground/c20RjWeLNwu4/?ref=app), [Raven Cyber Simulation](https://t.me/SeraphyneProjects/3), [Android Library Security](https://github.com/vynie7/ZeltaHackoMimi)
 - Contribution: [PyTorch Regression Linear Model](https://github.com/3xSiberID/Celsius-To-Fahrenheit-NN) 
 
 Tech Stack:
